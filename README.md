@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **namespace-Pt/namespace-Pt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# :wave: Hi namespace-Pt here!
+<img src="https://github-readme-stats-one-bice.vercel.app/api?username=namespace-Pt&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER&count_private=true&show_icons=true&theme=tokyonight" alt="namespace-Pt's GitHub stats" height="185px" /> <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=namespace-Pt&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER" alt="Top Langs" height="185px" />
